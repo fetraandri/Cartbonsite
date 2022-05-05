@@ -1,0 +1,117 @@
+
+  a{
+    font-size:1px;
+    text-decoration: none;
+  }
+  .cartbon{
+  background-color: black;
+  text-align:right;
+  }
+  body{
+    background-image: url("IMAGE/background.jpeg");
+    background-repeat: no-repeat;
+    font-family: cursive;
+  }
+  #accueil{
+    color:green;
+    border : solid 1px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+
+    }
+  #apropos{
+    border : solid 2px;
+    margin-left: 2cm;
+    color:green;
+    border : solid 2px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+
+  }
+  #membres{
+    color:green;
+    border : solid 2px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+
+  }
+  #accueil:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   } 
+  #apropos:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   } 
+  #membres:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   }
+   #logos{
+   width: 400px;
+   height: 300px;
+   padding-left:2cm;
+   }
+   #lien{
+    display: flex;
+    margin-top:1cm;
+    width: 100%;
+    justify-content:space-between;
+    padding-bottom:0;
+    padding-top:0;
+    justify-content: right;
+    opacity: 0.8;
+    
+   }
+
+.paragraphe{
+    color:white;
+    font-size: 40px;
+}
+#parag2{
+    text-align:right;
+    color:white;
+
+}
+img{
+    padding-left:12cm;
+    width:60%;
+    height: 60%;
+
+  }
+
+#p{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+img:hover{
+    opacity: 0.9;
+}
+#CONTACT{
+  text-align: center;
+  background-color: black;
+  font-size: 30px;
+  margin-top: 3cm;
+  color: white;
+
+}
+.lastparagraph{
+  font-size:40px;
+  color: green;
+}
+#prgrph{
+  font-size:29px;
+  color: white;
+}

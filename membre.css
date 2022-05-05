@@ -1,0 +1,144 @@
+
+  
+  a{
+    font-size:1px;
+    text-decoration: none;
+  }
+  .cartbon{
+  background-color: black;
+  text-align:right;
+  }
+  body{
+    background-color: black;
+    font-family: cursive;
+  }
+  #accueil{
+    color:green;
+    border : solid 1px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+    }
+  #apropos{
+    border : solid 2px;
+    margin-left: 2cm;
+    color:green;
+    border : solid 2px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+
+  }
+  #membres{
+    color:green;
+    border : solid 2px;
+    margin-left: 2cm;
+    font-size:30px;
+    padding: 12px;
+    background-color: white;
+    border-radius: 25px;
+
+
+  }
+  #accueil:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   } 
+  #apropos:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   } 
+  #membres:hover{
+    border-bottom: 1px solid green;
+    background-color: black;
+   }
+   #logos{
+   width: 400px;
+   height: 300px;
+   padding-left:2cm;
+   }
+   #lien{
+    display: flex;
+    margin-top:1cm;
+    width: 100%;
+    justify-content:space-between;
+    padding-bottom:0;
+    padding-top:0;
+    justify-content: right;
+    opacity: 0.8;
+   }
+   #pdp{
+       border-radius: 50%;
+       width: 300px;
+       height: 300px;
+   
+   }
+   .tasyme{
+       display: flex;
+       align-items:center;
+   }
+   p{
+       margin-left: 2cm;
+       font-size: 19px;
+       margin-right: 1cm;
+       color:white;
+       
+       
+   }
+  h1{
+      font-size:40px;
+      color:white;
+      text-align: center;
+      
+  }
+  #pdp:hover{
+    opacity: 0.5;
+  }
+  #mendrika{
+    text-align: center;
+    margin-top: 6cm;
+  }
+  #adherent{
+    display: flex;
+    align-items: center;
+    text-align: center; 
+  }
+#BANDY{
+ width:15cm;
+ height:15cm;
+}
+.login{
+  text-align: center;
+  font-size:123px;
+  margin-top: 12cm;
+}
+#input{
+  background-color:white;
+}
+#NOM{
+  width: 12cm;
+  height: 1cm;
+  font-size:20px;
+}
+#message{
+  width: 24cm;
+  height: 5cm;
+}
+button{
+  margin-bottom:3cm;
+  width:4cm;
+  height: 2cm;
+}
+#CONTACT{
+  text-align: center;
+}
+.lastparagraph{
+  font-size:30px;
+  color: green;
+}
